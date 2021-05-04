@@ -1,0 +1,30 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: ホーム
+    url: '#about'
+    weight: 10
+  - name: スキル
+    url: '#skills'
+    weight: 20
+  - name: 職歴
+    url: '#experience'
+    weight: 30
+  - name: 講演
+    url: '#talks'
+    weight: 40
+  - name: 論文
+    url: '#publications'
+    weight: 50
+  - name: 連絡先
+    url: '#contact'
+    weight: 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
