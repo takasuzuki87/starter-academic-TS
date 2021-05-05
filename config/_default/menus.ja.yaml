@@ -19,7 +19,7 @@ main:
   - name: 論文
     url: '#publications'
     weight: 50
-  - name: 連絡先
+  - name: お問い合わせ
     url: '#contact'
     weight: 60
 
