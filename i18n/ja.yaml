@@ -23,7 +23,7 @@
 - id: figure
   translation: '図 %d:'
 - id: edit_page
-  translation: Edit this page
+  translation: ページ編集
 - id: theme_selector
   translation: Display preferences
 - id: theme_light
@@ -31,7 +31,7 @@
 - id: theme_dark
   translation: ダークモード
 - id: theme_auto
-  translation: Automatic
+  translation: 自動
 - id: btn_preprint
   translation: プレプリント
 - id: btn_pdf
@@ -61,7 +61,7 @@
 - id: education
   translation: 学歴
 - id: user_profile_latest
-  translation: Latest
+  translation: 最新
 - id: see_certificate
   translation: See certificate
 - id: present
