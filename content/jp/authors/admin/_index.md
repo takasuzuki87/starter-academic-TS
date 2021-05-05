@@ -1,11 +1,11 @@
 ---
-title: Takayuki Suzuki
-role: Freelance Data Analyst
+title: 鈴木 崇之
+role: データアナリスト
 bio: # My research interests include distributed robotics, mobile computing and programmable matter.
 interests:
-  - Smart Cities
-  - Urban Informatics
-  - Place Attachment
+  - スマートシティ
+  - 都市と情報
+  - 街への愛着
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,11 +27,11 @@ organizations:
     url:
 education:
   courses:
-    - course: MA in Urban Planning
-      institution: Tufts University
+    - course: 都市環境政策学研究科修士課程修了
+      institution: タフツ大学大学院
       year: 2013
-    - course: BEng in Urban Engineering
-      institution: University of Tokyo
+    - course: 工学部都市工学科卒業
+      institution: 東京大学
       year: 2010
 email: ""
 superuser: true
