@@ -2,10 +2,10 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
-primary = "#EF525B"
+primary = "#bf5700"
 
 # Menu
 menu_primary = "#333f48"
