@@ -5,18 +5,18 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#005f86"
+primary = "#bf5700"
 
 # Menu
-menu_primary = "#EAE7D6" # Menu bar
-menu_text = "#333f48"
-menu_text_active = "#005f86"
-menu_title = "#333f48"
+menu_primary = "#333f48" # Menu bar
+menu_text = "#EAE7D6"
+menu_text_active = "#bf5700"
+menu_title = "#EAE7D6"
 
 # Backgrounds
 background = "#EAE7D6"
 home_section_odd = "#EAE7D6"
-home_section_even = "#EAE7D6"
+home_section_even = "#edead8"
 # "#EAE7D6"
 
 font = "rose"
