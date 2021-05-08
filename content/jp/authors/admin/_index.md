@@ -38,8 +38,7 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+私は現在、アメリカのテキサス大学オースティン校 情報学大学院の博士課程に在籍しています。情報通信技術（ICT）が都市体験、とりわけ都市への愛着へ与える影響について、行動科学や環境心理学のアプローチを交えて研究を行っています。
+これまでは、日本政策投資銀行にて地域調査と法人融資に従事した後、教育系ITベンチャーのCastalia㈱にてアプリのプロジェクトマネジメントと研究開発を担当しました。博士課程進学前はシカゴ市警察にてデータアナリストをしていました。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
