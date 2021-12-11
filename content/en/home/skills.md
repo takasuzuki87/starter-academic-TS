@@ -30,11 +30,11 @@ feature:
   name: GIS
 - description: Oracle Database
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: SQL
 - description: Tableau
   icon: chart-line
-  icon_pack: fab
+  icon_pack: fas
   name: BI
 
 
