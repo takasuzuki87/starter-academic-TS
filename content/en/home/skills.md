@@ -16,22 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- # description: 100%
+- description: Pandas, Scikit-learn, Matplotlib, Seaborn
   icon: python
   icon_pack: fab
   name: Python
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-- description: 90%
+- description: igraph
   icon: r-project
   icon_pack: fab
   name: R
+- description: Arc GIS, QGIS
+  icon: fa-map
+  icon_pack: far
+  name: GIS
+- description: Oracle Database
+  icon: fa-database
+  icon_pack: fas
+  name: SQL
 
 
 
