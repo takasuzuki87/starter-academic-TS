@@ -6,7 +6,7 @@ experience:
   - title: Principal Operations Analyst
     company: Chicago Police Department
     company_url: ""
-    company_logo: "Chicago_Police_Logo.png"
+    company_logo: "Chicago_Police_Logo"
     location: Chicago
     date_start: 2018-12-14
     date_end: 2021-03-31
