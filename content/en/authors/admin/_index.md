@@ -1,6 +1,6 @@
 ---
 title: Takayuki Suzuki
-role: Freelance Data Analyst
+role: Ph.D. Student in Information Studies
 bio: # My research interests include distributed robotics, mobile computing and programmable matter.
 interests:
   - Smart Cities
@@ -38,7 +38,7 @@ superuser: true
 highlight_name: false
 ---
 
-I am an incoming Ph.D. student at the University of Texas at Austin School of Information. Broadly, I am interested in how Information and Communication Technology (ICT) affects people's behavioral and psychological experiences in cities. In particular, I explore how ICT mediates social interaction and shapes people’s attachment toward cities.
+I am a Ph.D. student at the University of Texas at Austin, School of Information. Broadly, I am interested in how Information and Communication Technology (ICT) affects people's behavioral and psychological experiences in cities. In particular, I explore how ICT mediates social interaction and shapes people’s attachment toward cities.
 Prior to starting the Ph.D. program, I had 8 years of work experience as a data analyst and project manager in both public and private sectors.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
