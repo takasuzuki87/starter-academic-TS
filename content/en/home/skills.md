@@ -25,14 +25,17 @@ feature:
   icon_pack: fab
   name: R
 - description: Arc GIS, QGIS
-  icon: map-marked
+  icon: map
   icon_pack: far
   name: GIS
 - description: Oracle Database
-  icon: fa-database
-  icon_pack: fas
+  icon: database
+  icon_pack: fab
   name: SQL
-
+- description: Tableau
+  icon: chart-line
+  icon_pack: fab
+  name: BI
 
 
 # Uncomment to use emoji icons.
