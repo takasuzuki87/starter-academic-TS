@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Pandas, Scikit-learn, Matplotlib, Seaborn
+- description: Pandas, Scikit-learn, Matplotlib
   icon: python
   icon_pack: fab
   name: Python
@@ -35,7 +35,7 @@ feature:
 - description: Tableau
   icon: chart-line
   icon_pack: fas
-  name: BI
+  name: Business Intelligence
 
 
 # Uncomment to use emoji icons.
