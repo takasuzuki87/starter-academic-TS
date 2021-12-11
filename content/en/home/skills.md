@@ -25,7 +25,7 @@ feature:
   icon_pack: fab
   name: R
 - description: Arc GIS, QGIS
-  icon: fa-map
+  icon: map-marked
   icon_pack: far
   name: GIS
 - description: Oracle Database
