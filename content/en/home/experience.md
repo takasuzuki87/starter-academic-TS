@@ -10,7 +10,7 @@ experience:
     location: Chicago
     date_start: 2018-12-14
     date_end: 2021-03-31
-    description: # |-2
+    description: #
       #  Responsibilities include:
 
       #  * Analysing
@@ -19,7 +19,7 @@ experience:
   - title: Data Analyst and Project Manager
     company: Castalia Co., Ltd.
     company_url: ""
-    company_logo: # org-x
+    company_logo: "Castalia_Logo"
     location: Tokyo, JAPAN
     date_start: 2016-04-01
     date_end: 2018-04-30
@@ -27,7 +27,7 @@ experience:
   - title: Research Analyst
     company: Development Bank of Japan
     company_url: ""
-    company_logo: # org-x
+    company_logo: # "Castalia_Logo"
     location: Tokyo, JAPAN
     date_start: 2013-09-01
     date_end: 2016-01-31
