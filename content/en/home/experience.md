@@ -27,7 +27,7 @@ experience:
   - title: Research Analyst
     company: Development Bank of Japan
     company_url: ""
-    company_logo: # "Castalia_Logo"
+    company_logo: "DBJ_Logo"
     location: Tokyo, JAPAN
     date_start: 2013-09-01
     date_end: 2016-01-31
