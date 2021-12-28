@@ -1,7 +1,7 @@
 ---
 abstract: This research examined local residents' feelings of attachment to urban facilities and to the city, through an on-site questionnaire survey. Three groups of residents were identified in terms of their levels of attachment to the city. One group had a relatively low attachment, and the other two groups had a higher attachment but differed in the degrees of sense of belonging and desire for permanence. Detailed analyses of the characteristics of these three groups showed that the feeling of attachment to the city was related to the feeling of attachment to urban facilities and the attributes of residents. These results suggest the possibility of enhancing residents' place attachment through the practice of urban planning, for example, providing ideas for the construction and maintenance of urban facilities.
-slides: example
-url_pdf: ""
+#slides: example
+url_pdf: "https://www.jstage.jst.go.jp/article/journalcpij/46/2/46_2_117/_pdf/-char/en"
 publication_types:
   - "1"
 authors:
