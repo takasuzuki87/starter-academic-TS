@@ -3,7 +3,7 @@ abstract: This research examined local residents' feelings of attachment to urba
 #slides: example
 url_pdf: "https://www.jstage.jst.go.jp/article/journalcpij/46/2/46_2_117/_pdf/-char/en"
 publication_types:
-  - "1"
+  - "2"
 authors:
   - admin
   - Toru Ishikawa
