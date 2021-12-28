@@ -30,7 +30,7 @@ tags: []
 #  focal_point: ""
 #  preview_only: false
 date: 2011-10-25T00:00:00Z
-url_slides: ""
+url_slides: "https://www.jstage.jst.go.jp/article/journalcpij/46/2/46_2_117/_pdf/-char/en"
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
