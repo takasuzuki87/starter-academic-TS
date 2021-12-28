@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: taka.suzuki87@gmail.com
 # phone:
 # address:
 #   street: 450 Serra Mall
@@ -41,11 +41,11 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: TakaSuzuki
-    link: 'https://twitter.com/Twitter'
-  # - icon: skype
-  #   icon_pack: fab
-  #   name: Skype Me
-  #   link: 'skype:echo123?call'
+    link: 'https://twitter.com/apst74'
+  - icon: linkedin
+    icon_pack: fab
+    name: Takayuki Suzuki
+    link: 'skype:echo123?call'
   # - icon: keybase
   #   icon_pack: fab
   #   name: Chat on Keybase
