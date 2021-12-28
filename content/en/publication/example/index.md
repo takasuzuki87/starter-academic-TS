@@ -6,30 +6,30 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+  - Toru Ishikawa
+  - Yukio Sadahiro
+  - Yasushi Asami
+#author_notes:
+#  - Equal contribution
+#  - Equal contribution
+publication: In *Journal of the City Planning Institute of Japan*
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 url_dataset: ""
 url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
 title: An example conference paper
-doi: ""
+doi: "https://doi.org/10.11361/journalcpij.46.117"
 featured: false
 tags: []
 projects:
   - example
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
-date: 2013-07-01T00:00:00Z
+#image:
+#  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+#  focal_point: ""
+#  preview_only: false
+date: 2011-10-25T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
