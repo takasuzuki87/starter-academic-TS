@@ -11,9 +11,9 @@ content:
   form:
     provider: netlify
     formspree:
-      ? id
+      #? id
     netlify:
-      captcha: false
+      captcha: true
 design:
   columns: "2"
 ---
