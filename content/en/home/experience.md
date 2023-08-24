@@ -7,7 +7,7 @@ experience:
     company: Chicago Police Department
     company_url: ""
     company_logo: "Chicago_Police_Logo"
-    location: Chicago
+    location: Chicago, IL
     date_start: 2018-12-14
     date_end: 2021-03-31
     description: #
@@ -40,4 +40,4 @@ subtitle: null
 design:
   columns: "2"
 ---
-My professional career has been built around the intersection of technology, data analytics, and urban policy.
+My professional career has been built around the intersection of technology, data analytics, and urban policy. Foe more detail, please check my [LinkedIn page](https://www.linkedin.com/in/takasuzuki/).
