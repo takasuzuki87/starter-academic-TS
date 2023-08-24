@@ -40,4 +40,4 @@ subtitle: null
 design:
   columns: "2"
 ---
-My professional career has been built around the intersection of technology, data analytics, and urban policy. Foe more detail, please check my [LinkedIn page](https://www.linkedin.com/in/takasuzuki/).
+My professional career revolves around the intersection of technology, data analytics, and urban policy. For more details, please check my [LinkedIn page](https://www.linkedin.com/in/takasuzuki/).
