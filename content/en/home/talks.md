@@ -11,7 +11,7 @@ weight: 70
 
 title: 'Talks & Presentations'
 subtitle:
-active: false
+active: true
 
 content:
   # Page type to display. E.g. post, event, publication...
