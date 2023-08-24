@@ -32,7 +32,7 @@ feature:
   icon: database
   icon_pack: fas
   name: SQL
-- description: Tableau
+- description: Tableau, PowerBI
   icon: chart-line
   icon_pack: fas
   name: Business Intelligence
