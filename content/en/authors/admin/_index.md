@@ -27,10 +27,10 @@ organizations:
     url:
 education:
   courses:
-    - course: MA in Urban Planning
+    - course: M.A. in Urban Planning
       institution: Tufts University
       year: 2013
-    - course: BEng in Urban Engineering
+    - course: B.Eng. in Urban Engineering
       institution: University of Tokyo
       year: 2010
 email: ""
