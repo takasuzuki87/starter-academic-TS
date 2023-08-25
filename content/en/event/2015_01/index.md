@@ -41,7 +41,7 @@ featured: false
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #url_code: ""
-url_pdf: "https://drive.google.com/file/d/1AHbEJ6uYYuvzEeCs88IASEZ-nCwAUz9D/view?usp=drive_link"
+url_pdf: https://drive.google.com/file/d/1AHbEJ6uYYuvzEeCs88IASEZ-nCwAUz9D/view?usp=drive_link
 #url_slides: ""
 #url_video: ""
 
