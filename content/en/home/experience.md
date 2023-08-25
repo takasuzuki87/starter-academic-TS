@@ -4,7 +4,7 @@ active: true
 date_format: Jan 2006
 experience:
   - title: Principal Operations Analyst
-    company: Chicago Police Department
+    company: [Chicago Police Department](https://home.chicagopolice.org/)
     company_url: ""
     company_logo: "Chicago_Police_Logo"
     location: Chicago, IL
@@ -17,7 +17,7 @@ experience:
       #  * Modelling
       #  * Deploying
   - title: Data Analyst and Project Manager
-    company: Castalia Co., Ltd.
+    company: [Castalia Co., Ltd.](https://en.castalia.co.jp/)
     company_url: ""
     company_logo: "Castalia_Logo"
     location: Tokyo, JAPAN
@@ -25,7 +25,7 @@ experience:
     date_end: 2018-04-30
     description: # Taught electronic engineering and researched semiconductor physics.
   - title: Research Analyst
-    company: Development Bank of Japan
+    company: [Development Bank of Japan](https://www.dbj.jp/en/)
     company_url: ""
     company_logo: "DBJ_Logo"
     location: Tokyo, JAPAN
