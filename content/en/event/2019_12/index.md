@@ -1,5 +1,5 @@
 ---
-title: “Big Data at the Chicago Police Department”
+title: Big Data at the Chicago Police Department
 
 event: Presentation on the history of big data use at the Chicago Police.
 event_url: # https://example.org
@@ -41,7 +41,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #url_code: ""
-#url_pdf: 
+#url_pdf:
 url_slides: https://drive.google.com/file/d/1AHdpKyXfwmLo_Re1nS-eebjlyPqkt8ab/view?usp=sharing
 #url_video: ""
 
