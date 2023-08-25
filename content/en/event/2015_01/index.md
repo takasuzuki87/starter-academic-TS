@@ -1,5 +1,5 @@
 ---
-title: “Studying Abroad - Building a Career after a Master’s Degree”
+title: Studying Abroad - Building a Career after a Master’s Degree
 
 event: Presentation at an event by the [Japanese Graduate Student Association in the United States](https://gakuiryugaku.net/english)
 event_url: # https://example.org
